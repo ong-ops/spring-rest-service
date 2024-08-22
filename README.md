@@ -1,14 +1,10 @@
 # Spring Rest Service Guide
 
-## Description
-I have learned how to create a Spring rest service from the official site.
+Create a Spring rest service.
+
 https://spring.io/guides/gs/rest-service
 
-**Lesson learned:**
-- Create a simple Restful API using Spring Boot.
-- Use the `Record` keyword from Java14
-  - https://www.baeldung.com/java-record-keyword
-- Run the service via `gradle` and `maven`
+---
 
 ## Run the Service
 
